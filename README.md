@@ -11,7 +11,7 @@
 
 ---
 
-> <img src="https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark" align="right" width="40%">
+> 
 
 - 🌱 I am a Linux Enthusiast who enjoys exploring and experimenting with new systems.
 - 🌐 You can usually find me active on Stack Overflow and Reddit, helping others and learning along the way.
