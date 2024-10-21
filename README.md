@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">
+<h3 align="left">
    <img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins">
 </h3>
 
@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="center">
+<h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins">
 </h3>
 
@@ -67,7 +67,7 @@
 
 ---
 
-<h3 align="center">
+<h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=🏆+GitHub+Trophies;&font=Poppins">
 </h3>
 
@@ -77,7 +77,7 @@
 
 ---
 
-<h3 align="center">
+<h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=✍️+Random+Dev+Quote;&font=Poppins">
 </h3>
 
@@ -87,7 +87,7 @@
 
 ---
 
-<h3 align="center">
+<h3 align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=🔝+Top+Contributed+Repo;&font=Poppins">
 </h3>
 
