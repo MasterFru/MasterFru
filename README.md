@@ -1,6 +1,6 @@
 <p align="right"><img src="https://visitcount.itsvg.in/api?id=MuntasirSZN&icon=0&color=0"></p>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+MasterFru;A+Linux+Enthusiast🐧;A+Programming+Enthusiast💻;&font=Poppins"></h3>
 
 
 ---
@@ -8,8 +8,8 @@
 
 - 🌱 I am a Linux Enthusiast who likes to play with Computers.
 - 🌐 I am always active on Stack Overflow and Reddit.
-- 💽 Currently I know HTML,CSS,Javascript and Python.
-- 💻 Learning To be a Full-Stack Developer. You can see in the side.
+- 💽 Currently I know HTML, CSS, Javascript, Python, C & C++.
+- 💻 Learning To be a Full-Stack Developer. You can see it on the side.
 - 🔨 I also know a bit of hacking (Ethical Purposes)
 ---
 <p align="center">
