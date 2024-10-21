@@ -13,13 +13,11 @@
 
 ---
 
-> <img src="https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark" align="right" width="40%">
-
 - 🌱 I am a Linux Enthusiast who loves tinkering with systems.
-- 🌐 I'm always active on Stack Overflow and Reddit.
-- 💻 I know HTML, CSS, JavaScript, Python, C & C++.
-- 🎯 Currently learning to be a Full-Stack Developer (as shown on the side).
-- 🔨 Also familiar with ethical hacking (for educational purposes).
+- 🌐 I'm always active on Stack Overflow, Reddit, Dev & DailyDev, etc.
+- 💻 I know Basic Web Development, JavaScript, Python, C & C++.
+- 🎯 Currently learning to be a Full-Stack Developer.
+- 🔨 Also familiar with ethical hacking.
 
 ---
 
@@ -94,7 +92,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=masterfru&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=masterfru&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repo stats"/>
 </p>
 
 <p align="center">
