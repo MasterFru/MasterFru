@@ -12,7 +12,8 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="200" align="right">
+
 - 🌱 I am a Linux Enthusiast who loves tinkering with systems.
 - 🌐 I'm always active on Stack Overflow, Reddit, Dev & DailyDev, etc.
 - 💻 I know Basic Web Development, JavaScript, Python, C & C++.
