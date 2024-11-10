@@ -25,7 +25,7 @@
 ---
 
 <details>
-<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&center=true&width=500&height=50"></h3></summary>
+<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&center=true&width=500&height=50"></h3></summary>
 
 <div align="center">
   <p>
