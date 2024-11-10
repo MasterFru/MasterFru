@@ -51,7 +51,7 @@
 ---
 
 <details>
-<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
+<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()  
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/Mintwheel8239)  
