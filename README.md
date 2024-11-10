@@ -25,23 +25,26 @@
 ---
 
 <details>
-<summary><h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&width=500&height=50&align=left">
-</h3></summary>
-
-<div align="center">
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterfru&theme=tokyonight" alt="GitHub Profile Details"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=masterfru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-    <img src="https://streak-stats.demolab.com/?user=masterfru&theme=tokyonight" alt="GitHub Streak Stats" width="49%"/>
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterfru&theme=tokyo-night" alt="GitHub Activity Graph"/>
-  </p>
-</div>
+  <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&width=500&height=50"></h3></summary>
+  
+  <div align="center">
+    <p>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterfru&theme=tokyonight" alt="GitHub Profile Details"/>
+    </p>
+    <div style="display: flex; justify-content: space-between; width: 100%; max-width: 100%; flex-wrap: wrap;">
+      <p style="flex: 1 1 48%; margin: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=masterfru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </p>
+      <p style="flex: 1 1 48%; margin: 0;">
+        <img src="https://streak-stats.demolab.com/?user=masterfru&theme=tokyonight" alt="GitHub Streak Stats"/>
+      </p>
+    </div>
+    <p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterfru&theme=tokyo-night" alt="GitHub Activity Graph"/>
+    </p>
+  </div>
 </details>
+
 
 
 
