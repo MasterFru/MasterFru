@@ -27,7 +27,7 @@
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=📊+My+GitHub+Statistics;&font=Poppins&center=true&width=500&height=50"></h3></summary>
 
-<div align="center">
+<div align="left">
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterfru&theme=tokyonight" alt="GitHub Profile Details"/>
   </p>
@@ -40,6 +40,7 @@
   </p>
 </div>
 </details>
+
 
 
 ---
