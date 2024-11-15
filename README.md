@@ -139,7 +139,7 @@
 ---
 
 
-<img src="https://github.com/MasterFru/MasterFru/505fbc8b43a3a6cc309ab579e5b7f87ba0a612eb/github-contribution-grid-snake.svg">
+<img src="https://github.com/MasterFru/MasterFru/b1d0e109b7baf39345a07d666db5f1e82d51916e/github-contribution-grid-snake.svg">
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Visiting+💖;&font=Poppins&center=true&width=500&height=50">
