@@ -1,9 +1,9 @@
 name: Generate Snake
 
-# Controls when the action will run.
+# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # Runs every 6 hours
+    # every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -15,16 +15,21 @@ jobs:
       # Step 1: Checkout the code
       - uses: actions/checkout@v3
 
-      # Step 2: Generate the snake (output is saved in default path)
+      # Step 2: Generate the snake
       - uses: Platane/snk@v3.2.0
         with:
           github_user_name: MasterFru
+          # Remove the output parameter as it's not recognized
+          # (Check the latest action documentation for valid inputs)
 
-      # Step 3: Deploy to GitHub Pages
+      # Step 3: Check git status (optional for debugging)
+      - run: git status
+
+      # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .github/snake  # Ensure this matches the generated file's location
+          build_dir: .  # Set to the current directory if no "dist" is created
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
