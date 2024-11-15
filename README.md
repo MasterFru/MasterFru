@@ -22,6 +22,8 @@
 - 🎯 Aspiring Full-Stack Developer & Competitive Programmer.
 - 🔐 Dabbles in Ethical Hacking.
 
+<br>
+<br>
 ---
 
 <details>
