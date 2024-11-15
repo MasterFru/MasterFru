@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
 
       # Step 2: Generate the snake
-      - uses: Platane/snk@v3.3.0
+      - uses: Platane/snk@v3.2.0
         with:
           github_user_name: MasterFru
           # Remove the output parameter as it's not recognized
