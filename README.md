@@ -139,7 +139,6 @@
 ---
 
 
-<img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/72355e8dc9f4a5ede216f87ec93656752e144065/github-contribution-grid-snake.svg">
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+Visiting+💖;&font=Poppins&center=true&width=500&height=50">
